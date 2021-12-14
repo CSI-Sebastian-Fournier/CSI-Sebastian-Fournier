@@ -1,6 +1,6 @@
 <div align="center">
   
-# Manjares Navidenos
+# Manjares Navideños
 
 ## Pasteles de Yuca
 
