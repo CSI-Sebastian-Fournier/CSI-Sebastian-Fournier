@@ -1,8 +1,11 @@
-# ManjaresNavidenos
+<div align="center">
+  
+# Manjares Navidenos
 
 ## Pasteles de Yuca
-<div align="center">
+
 <img src="https://images.media-allrecipes.com/userphotos/7006424.jpg" width="520" eight="364" />
+  
 </div>
 
 
